@@ -16,6 +16,8 @@ Where source code I modified: [link](https://github.com/TroyMitchell911/tailscal
 -verify-clients
 ```
 
+If you can't connect to the derp server, please check if port 41641/udp is open.
+
 # Setup
 
 Here is a example.
