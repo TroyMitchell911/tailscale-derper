@@ -15,7 +15,7 @@ services:
       # I need to verify clients
       - DERP_VERIFY_CLIENTS=true
     ports:
-      - '12345:12345'
+      - '34567:34567'
       # udp port
       - '3478:3478'
     volumes:
